@@ -1,0 +1,1 @@
+{{$model->price * $model->qty}}
